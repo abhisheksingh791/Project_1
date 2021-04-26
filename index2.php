@@ -14,7 +14,7 @@ $var3=6;
 $var2="<html>
 <head> </head>
 <body>
-    <h1>Hello from arbazkhan Pathan</h1>
+    <h1>Hello from Abhishek Kumar Singh</h1>
     <form action='http://localhost/lessons/index2.php' method = 'POST'>
     <input type='text' name='name'></input><br />
     <input type='submit' value='Submit'>
